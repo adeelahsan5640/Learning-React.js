@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      Hello Pakistan
+      Hello UBIT
     </div>
   );
 }
